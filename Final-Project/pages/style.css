@@ -1,0 +1,52 @@
+header {
+    height: 120px;
+}
+.logo {
+    width: 100px;
+    max-width: 50%;
+    display: inline-block;
+    margin: 10px ;
+    text-align: top;
+    width: 27px;
+height: 25px;
+top: 27px;
+left: 79px;
+
+}
+.hash1 {
+    display: inline-block;
+    vertical-align:top;
+    font-family: Kaisei Decol;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 46px;
+    letter-spacing: 0em;
+    margin: 2px 0px 0px 25px;
+    color: #000000;
+    max-width: 50%;
+    max-height: 50%;
+    max-block-size: 10px;
+}
+li {
+    display: inline-block;
+}
+.uli {
+    display: inline-block;
+    vertical-align: top;
+}
+.li {
+    display: inline-block;
+    vertical-align: top;
+}
+.li {
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px 0px 0px 100px;
+    font-size: 8px;
+}
+.ebauti {
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px 0px 0px 6px;
+    font-size: 8px;
+}
